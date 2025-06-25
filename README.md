@@ -21,3 +21,11 @@ Inspired by Nishit Batwal's (https://github.com/haberdasher30) CipherGenerator.
 - cd Encrypter
 - chmod +x encrypter.sh
 - ./encrypter.sh
+
+# Example
+Substitution key = 0ZyXwV9uTsRq8PoNmL7kJiHg6FeDcB5azYxW4vUtSr3QpOnM2lKjIh1GfEdCbA
+
+Entered String = hello world!123
+Encrypted message = uwqqo HoLqX!h1G
+
+The script will not make any changes to whitespaces or special characters.
