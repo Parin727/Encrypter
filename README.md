@@ -17,7 +17,7 @@ Inspired by Nishit Batwal's (https://github.com/haberdasher30) CipherGenerator.
 
 # Usage
 
-git clone https://github.com/yourusername/Encrypter.git
-cd Encrypter
-chmod +x encrypter.sh
-./encrypter.sh
+- git clone https://github.com/yourusername/Encrypter.git
+- cd Encrypter
+- chmod +x encrypter.sh
+- ./encrypter.sh
