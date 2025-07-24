@@ -5,7 +5,7 @@ A basic encryption and decryption tool written in Bash using a custom substituti
 This project was created **to practice Bash scripting**, focusing on string manipulation, arrays, and functions.  
 Inspired by Nishit Batwal's (https://github.com/haberdasher30) CipherGenerator.
 
-DISCLAIMER
+DISCLAIMER  
 This tool is intended strictly for educational purposes only. It implements a substitution cipher, which is a form of encryption that is not secure by modern standards and can be easily broken using frequency analysis.
 Do not use this for securing any real or sensitive data.
 
